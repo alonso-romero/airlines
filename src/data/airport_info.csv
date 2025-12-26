@@ -1,0 +1,30 @@
+Airport.Code,Airport.Name,American Hub,Delta Hub,United Hub,Southwest Hub,Alaska Hub,JetBlue Hub,Latitude,Longitude
+ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",False,True,False,True,False,False,33.6324,-84.4333
+BOS,"Boston, MA: Logan International",False,True,False,False,False,True,42.3656,-71.0096
+BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",False,False,False,True,False,False,39.1774,-76.6684
+CLT,"Charlotte, NC: Charlotte Douglas International",True,False,False,False,False,False,35.217,-80.8431
+DCA,"Washington, DC: Ronald Reagan Washington National",True,False,False,False,False,False,38.8521,-77.0375
+DEN,"Denver, CO: Denver International",False,False,True,True,False,False,39.8647,-104.6737
+DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",True,False,False,False,False,False,32.8968,-97.0229
+DTW,"Detroit, MI: Detroit Metro Wayne County",False,True,False,False,False,False,42.0078,-83.0458
+EWR,"Newark, NJ: Newark Liberty International",False,False,True,False,False,False,40.6925,-74.175
+FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",False,False,False,False,False,True,25.7907,-80.1373
+IAD,"Washington, DC: Washington Dulles International",False,False,True,False,False,False,38.9119,-77.4592
+IAH,"Houston, TX: George Bush Intercontinental/Houston",False,False,True,False,False,False,29.9844,-95.3621
+JFK,"New York, NY: John F. Kennedy International",True,True,False,False,False,True,40.6397,-73.7789
+LAS,"Las Vegas, NV: McCarran International",False,False,False,True,False,False,36.08,-115.1522
+LAX,"Los Angeles, CA: Los Angeles International",True,True,True,True,True,True,33.9416,-118.2437
+LGA,"New York, NY: LaGuardia",True,True,False,False,False,False,40.7772,-73.9442
+MCO,"Orlando, FL: Orlando International",False,False,False,True,False,True,28.4051,-81.309
+MDW,"Chicago, IL: Chicago Midway International",False,False,False,True,False,False,41.8781,-87.6349
+MIA,"Miami, FL: Miami International",True,False,False,False,False,False,25.7907,-80.2056
+MSP,"Minneapolis, MN: Minneapolis-St Paul International",False,True,False,False,False,False,44.8821,-93.242
+ORD,"Chicago, IL: Chicago O'Hare International",True,False,True,False,False,False,41.9026,-87.6298
+PDX,"Portland, OR: Portland International",False,False,False,False,True,False,45.5865,-122.678
+PHL,"Philadelphia, PA: Philadelphia International",True,False,False,False,False,False,39.876,-75.1652
+PHX,"Phoenix, AZ: Phoenix Sky Harbor International",True,False,False,True,False,False,33.4484,-112.074
+SAN,"San Diego, CA: San Diego International",False,False,False,True,True,False,32.7336,-117.1645
+SEA,"Seattle, WA: Seattle/Tacoma International",False,True,False,False,True,False,47.449,-122.332
+SFO,"San Francisco, CA: San Francisco International",False,False,True,False,True,False,37.6152,-122.4194
+SLC,"Salt Lake City, UT: Salt Lake City International",False,True,False,False,False,False,40.7899,-111.8609
+TPA,"Tampa, FL: Tampa International",False,False,False,True,False,False,27.9756,-82.5
